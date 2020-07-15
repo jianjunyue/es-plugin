@@ -1,3 +1,3 @@
 
-Elasticsearch ²å¼ş¿ª·¢¼òÃ÷Ö¸ÄÏ
+Elasticsearch æ’ä»¶å¼€å‘
 https://helloyoubeautifulthing.net/blog/2018/11/14/elasticsearch-plugin-develop-guide/
