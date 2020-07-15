@@ -16,10 +16,12 @@ import org.elasticsearch.plugins.Plugin;
 import org.elasticsearch.plugins.ScriptPlugin;
 import org.elasticsearch.script.ScriptContext;
 import org.elasticsearch.script.ScriptEngine;
-import org.elasticsearch.script.ScoreScript;
-
+import org.elasticsearch.script.ScoreScript; 
 //import org.apache.logging.log4j.LogManager;
 //import org.apache.logging.log4j.Logger;
+
+//ES官方示例
+//https://github.com/elastic/elasticsearch/blob/master/plugins/examples/script-expert-scoring/src/main/java/org/elasticsearch/example/expertscript/ExpertScriptPlugin.java
 
 //https://github.com/SnailWhb/elasticsearch_pulgine_fast-vector-distance/blob/master/fast_vector_distance(v6.4.1)/src/main/java/com/FastVectorDistance.java
 
