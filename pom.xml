@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>es-vector-plugin</module>
+    <module>es-plugin-knn</module>
   </modules>
 </project>
